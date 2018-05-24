@@ -1,0 +1,9 @@
+C:\Users\104996\Documents\TelaDeLoading\TelaDeLoading\bin\Debug\TelaDeLoading.exe.config
+C:\Users\104996\Documents\TelaDeLoading\TelaDeLoading\bin\Debug\TelaDeLoading.exe
+C:\Users\104996\Documents\TelaDeLoading\TelaDeLoading\bin\Debug\TelaDeLoading.pdb
+C:\Users\104996\Documents\TelaDeLoading\TelaDeLoading\obj\Debug\TelaDeLoading.csprojResolveAssemblyReference.cache
+C:\Users\104996\Documents\TelaDeLoading\TelaDeLoading\obj\Debug\TelaDeLoading.Form1.resources
+C:\Users\104996\Documents\TelaDeLoading\TelaDeLoading\obj\Debug\TelaDeLoading.Properties.Resources.resources
+C:\Users\104996\Documents\TelaDeLoading\TelaDeLoading\obj\Debug\TelaDeLoading.csproj.GenerateResource.Cache
+C:\Users\104996\Documents\TelaDeLoading\TelaDeLoading\obj\Debug\TelaDeLoading.exe
+C:\Users\104996\Documents\TelaDeLoading\TelaDeLoading\obj\Debug\TelaDeLoading.pdb
